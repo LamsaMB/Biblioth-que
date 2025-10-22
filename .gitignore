@@ -1,0 +1,30 @@
+# === Dossiers de Visual Studio ===
+.vs/
+*.vscode/
+
+# === Dossiers de build ===
+bin/
+obj/
+
+# === Fichiers utilisateur ===
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# === Fichiers temporaires ===
+*.log
+*.tmp
+*.cache
+*.vsidx
+
+# === Build outputs ===
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# === Autres fichiers inutiles ===
+[Tt]humbs.db
+[Dd]esktop.ini
+*.dbmdl
